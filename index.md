@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-<img src="CV_Latex_Photo.jpg" title= "Me in Aug 2022" width=260 height=300 style="margin:50px">
+<img src="CV_Latex_Photo.jpg" title= "Me in Aug 2022" width=260 height=300  class="center">
 
 
 Hi there! I am Ayush Garg. I'm a 2021 ETH Zürich Master's graduate in Robotics, Systems and Controls, where I mostly studied Machine Learning/Deep Learning courses, and the mathematics behind the most common ML algorithms. After spending two years as an ML Researcher at [IBM Research Zurich](https://www.zurich.ibm.com/), I decided to move back to my home in New Delhi, India to be with my family.
