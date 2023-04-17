@@ -9,4 +9,5 @@ Thus, whenever I feel there's something that would make me more effective in my 
 
 Below is a list of books I have read in recent times, that I would recommend others to read, grouped by topics and ordered alphabetically :) 
 
-1. [Programming Languages](pl.md)
+1. [Machine Learning](ml.pd)
+2. [Programming Languages](pl.md)
