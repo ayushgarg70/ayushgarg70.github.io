@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Readings"
+title: "Readings (under construction)"
 ---
 
 I'm an AVID reader. I believe (and also advocate) that one can save a lot more time, in the long run, by reading the basics first (docs/introductory books) and then building on to more advanced concepts, rather than diving straight into programming and later scrounging for answers on StackOverflow.
