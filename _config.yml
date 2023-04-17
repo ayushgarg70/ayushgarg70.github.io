@@ -17,14 +17,16 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: Home}
+  - {file: "readings.md", title: Readings}
   - {url: "CV.pdf", title: CV}
   - {file: "blog.md", title: Blog}
-
+  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:ayushgarg70@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/ayushgarg70"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/garg_ffa"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/ayush-garg-b23295115/"}
+  
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
