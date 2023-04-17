@@ -12,3 +12,6 @@ title: "Machine Learning"
 
 ### Reinforcement Learning
 1. [Reinforcement Learning: An Introduction](https://mitpress.mit.edu/9780262039246/reinforcement-learning/)
+
+### MLOps
+1. [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
