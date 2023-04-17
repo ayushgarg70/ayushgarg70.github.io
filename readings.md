@@ -9,4 +9,4 @@ Thus, whenever I feel there's something that would make me more effective in my 
 
 Below is a list of books I have read in recent times, that I would advocate others to read, grouped by topics and ordered alphabetically. 
 
-1. Programming Languages
+1. [Programming Languages]("pl.md")
