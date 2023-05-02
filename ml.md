@@ -7,6 +7,9 @@ title: "Machine Learning"
 1. [Pattern Recognition and Machine Learning](https://link.springer.com/book/9780387310732)
 2. [Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
+### Optimization
+1. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
+
 ### Deep Learning
 1. [Deep Learning](https://www.deeplearningbook.org/)
 
