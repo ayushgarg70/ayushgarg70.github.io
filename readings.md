@@ -10,7 +10,7 @@ Thus, whenever I feel there's something that would make me more effective in my 
 Below is a list of books I have read in recent times, that I would recommend others to read, grouped by topics and ordered alphabetically.
 
 1. [Cloud Computing](cloud.md)
-2. [Containerization](cont.md)
+2. [DevOps](cont.md)
 3. [Data Analysis](bd.md)
 4. [Machine Learning](ml.md)
 5. [Neuroscience and Exploratory AI](nea.md)
