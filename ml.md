@@ -15,6 +15,7 @@ title: "Machine Learning"
 
 ### MLOps
 1. [Introducing MLOps](https://www.oreilly.com/library/view/introducing-mlops/9781492083283/)
+2. [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 
 ### Advanced
 1. [High-Dimensional Statistics: A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)
