@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Containerization"
+title: "DevOps"
 ---
 
 ### Docker
