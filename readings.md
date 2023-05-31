@@ -26,5 +26,3 @@ I do also read non-technical books at my leisure (ordered when I read them):
 6. The Lean Startup, Eric Ries (2023)
 7. The Daily Stoic, Ryan Holiday (2023)
 8. Never Finished, David Goggins (Currently reading)
-9. Thinking, Fast and Slow, Daniel Kahneman (Currently reading)
-10. Noise, Daniel Kahneman (Planned)
