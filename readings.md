@@ -25,4 +25,7 @@ I do also read non-technical books at my leisure (ordered when I read them):
 5. Can't Hurt Me, David Goggins (2022)
 6. The Lean Startup, Eric Ries (2023)
 7. The Daily Stoic, Ryan Holiday (2023)
-8. Never Finished, David Goggins (Currently reading)
+8. Psychology of Money, Morgan Housel (2023)
+9. Never Finished, David Goggins (2023)
+10. Zero To One, Peter Thiel (2024)
+11. The Book of Five Rings, Miyamoto Musashi (Currently reading)
