@@ -16,3 +16,7 @@ title: "Progamming Languages"
 ### CUDA
 1. [Programming Massively Parallel Processors](https://www.elsevier.com/books/programming-massively-parallel-processors/hwu/978-0-323-91231-0)
 2. [Professional CUDA C Programming](https://www.wiley.com/en-fr/Professional+CUDA+C+Programming-p-9781118739327)
+
+### SQL
+1. [Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
+2. [PostgreSQL: Up and Running](https://www.oreilly.com/library/view/postgresql-up-and/9781491963401/)
