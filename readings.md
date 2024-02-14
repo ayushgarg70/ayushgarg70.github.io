@@ -16,7 +16,7 @@ Below is a list of books, grouped by topic, that I have read in recent times and
 5. [Neuroscience and Exploratory AI](nea.md)
 6. [Programming Languages](pl.md)
 
-I do also read non-technical books at my leisure (ordered when I read them):
+I do also read non-technical books at my leisure:
 
 1. The Brothers Karamazov, Fyodor Dostoevsky (2019)
 2. Good To Great, Jim Collins (2019)
