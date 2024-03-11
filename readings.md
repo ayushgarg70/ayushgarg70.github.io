@@ -29,5 +29,5 @@ I do also read non-technical books at my leisure:
 9. Never Finished, David Goggins (2023)
 10. Stillness is the key, Ryan Holiday (2023)
 11. Zero To One, Peter Thiel (2024)
-12. The Obstacle Is The Way, Ryan Holiday (Currently reading)
+12. The Obstacle Is The Way, Ryan Holiday (2024)
 13. The Book of Five Rings, Miyamoto Musashi (Currently reading)
