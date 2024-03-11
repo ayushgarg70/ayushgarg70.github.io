@@ -31,3 +31,4 @@ I do also read non-technical books at my leisure:
 11. Zero To One, Peter Thiel (2024)
 12. The Obstacle Is The Way, Ryan Holiday (2024)
 13. The Book of Five Rings, Miyamoto Musashi (Currently reading)
+14. Ego Is The Enemy, Ryan Holiday (Currently reading)
