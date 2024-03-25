@@ -20,3 +20,6 @@ title: "Progamming Languages"
 ### SQL
 1. [Learning SQL](https://www.oreilly.com/library/view/learning-sql-3rd/9781492057604/)
 2. [PostgreSQL: Up and Running](https://www.oreilly.com/library/view/postgresql-up-and/9781491963401/)
+
+### Javascript
+1. [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
