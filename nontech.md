@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Non-technical readings"
+---
+
 1. The Brothers Karamazov, Fyodor Dostoevsky (2019)
 2. Good To Great, Jim Collins (2019)
 3. The Warrior Ethos, Steven Pressfield (2022)
