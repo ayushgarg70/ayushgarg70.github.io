@@ -7,7 +7,7 @@ I'm an AVID reader. I believe (and also advocate) that one can save a lot more t
 
 Thus, whenever I feel there's something that would make me more effective in my work, I pick up a well-regarded book in that domain and try to understand its concepts from the ground up.
 
-Below is a list of books, grouped by topic, that I have read in recent times and that I would recommend others to read (ordered alphabetically by topic).
+Below is a list of books, grouped by topic, that I have read in recent times, that I would recommend others to read (ordered alphabetically by topic).
 
 1. [Cloud Computing](cloud.md)
 2. [DevOps](devops.md)
