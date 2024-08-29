@@ -23,3 +23,4 @@ title: "Progamming Languages"
 
 ### Javascript
 1. [JavaScript: The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/)
+2. [Learning TypeScript](https://www.oreilly.com/library/view/learning-typescript/9781098110321/)
