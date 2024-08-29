@@ -15,5 +15,5 @@ title: "Non-technical readings"
 10. Stillness Is The Key, Ryan Holiday (2023)
 11. Zero To One, Peter Thiel (2024)
 12. The Obstacle Is The Way, Ryan Holiday (2024)
-13. The Book of Five Rings, Miyamoto Musashi (Currently reading)
-14. Ego Is The Enemy, Ryan Holiday (Currently reading)
+13. Ego Is The Enemy, Ryan Holiday (2024)
+14. Courage Is Calling, Ryan Holiday (Currently reading)
