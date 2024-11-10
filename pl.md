@@ -26,5 +26,5 @@ title: "Progamming Languages"
 2. [Learning TypeScript](https://www.oreilly.com/library/view/learning-typescript/9781098110321/)
 
 ### Java
-1. [Core Java, Volume I: Fundamentals]([https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/](https://www.oreilly.com/library/view/core-java-volume/9780137673810/))
-2. [Core Java, Vol. II-Advanced Features]([https://www.oreilly.com/library/view/learning-typescript/9781098110321/](https://www.oreilly.com/library/view/core-java-vol/9780137870899/))
+1. [Core Java, Volume I: Fundamentals](https://www.oreilly.com/library/view/core-java-volume/9780137673810/)
+2. [Core Java, Vol. II-Advanced Features](https://www.oreilly.com/library/view/core-java-vol/9780137870899/)
